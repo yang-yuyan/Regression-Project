@@ -1,6 +1,6 @@
 # Regression-Project
-A simple and general regression model training project on python.  
-一个用于图像数据回归建模的工程模板，文件按照以下结构组织。
+A simple and general project template for regression modeling of a feature from image data on python.  
+一个用于从图像数据中对某个特征进行回归建模的工程模板，文件按照以下结构组织。
 
 ## 中文版
 程序内的路径均为【相对路径】，src_data文件夹内的数据按照组织结构放置即可。  
